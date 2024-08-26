@@ -4,4 +4,6 @@ title = "About"
 extra.in_header = true
 +++
 
-Hook is a theme for [Zola](https://getzola.org), a static site generator.
+* Let that sink in ↴
+* Hofstadter's law
+* It's just a numbers game, skill = work*timeclocked 

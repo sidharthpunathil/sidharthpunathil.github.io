@@ -1,4 +1,4 @@
 +++
 +++
 
-Hi! Welcome to Hook! Hook is a Zola theme.
+Just 🦆 around and find out.

@@ -1,7 +1,9 @@
 +++
-title = "Hello world"
-date = 2021-07-29
+title = "Hello World"
+date = 2024-08-27
 taxonomies.categories = ["intro"]
 +++
 
-Hello world!
+Hello World!
+
+Getting started with blogging!
