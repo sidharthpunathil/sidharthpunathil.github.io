@@ -11,6 +11,11 @@ jobs:
       # Checkout
       - name: Checkout main
         uses: actions/checkout@v3.0.0
+      
+      # Add CNAME file
+      - name: Create CNAME file
+        run: echo "blog.sidharth.co" > static/CNAME
+      
       # Build & deploy
       - name: Deploy to gh-pages branch
         uses: shalzz/zola-deploy-action@v0.17.2
