@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}Sidharth's Blog{% endblock title %}</title>
+  <link rel="icon" type="image/gif" href="/favicon.gif" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+  <!-- <link rel="stylesheet" href="/style.css"> -->
+</head>
+
+<body class="bg-[#708090] text-gray-900 min-h-screen font-garamond">
+  <div class="mx-auto max-w-2xl">
+    {% block content %} {% endblock content %}
+  </div>
+  
+  <div class="fixed bottom-2 w-screen">
+    <div class="flex flex-row items-center justify-center w-full">
+      <ul class="flex-1 flex justify-center items-center list-none p-2 gap-2 md:gap-2 py-0">
+        <li>
+          <a href="mailto:hello@sidharth.co" class="text-gray-300 hover:underline">
+            mail
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/sidharthpunathil" class="text-gray-300 hover:underline">
+            proof-of-work
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/sidharthpunathil/" class="text-gray-300 hover:underline">
+            in
+          </a>
+        </li>
+        <li>
+          <a href="https://x.com/0xS1dharth" class="text-gray-300 hover:underline">
+            tweets
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="flex bottom-4 items-center justify-center px-5 mb-4 pb-4">
+      <p class="text-gray-300 text-md"><span>— made by human. 2025.</span></p>
+    </div>
+  </div>
+</body>
+
+</html>

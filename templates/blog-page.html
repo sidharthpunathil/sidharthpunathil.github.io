@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} - Sidharth's Blog{% endblock title %}
+
+{% block content %}
+<!-- Navigation -->
+<nav class="flex justify-between p-4 pt-8 text-gray-300">
+  <a href="{{ get_url(path='') }}" class="text-3xl text-gray-300 hover:underline">S</a>
+  <!-- <div class="transform text-gray-300 rotate-90 font-bold text-lg">:&nbsp;)</div> -->
+</nav>
+
+<!-- Blog Post Content -->
+<article class="p-4 mt-8 mb-24">
+  <header class="mb-8">
+    <h1 class="text-3xl text-gray-300 mb-4 font-kreon">
+      {{ page.title }}
+    </h1>
+    {% if page.date %}
+      <time class="text-sm text-gray-300">{{ page.date | date(format="%B %d, %Y") }}</time>
+    {% endif %}
+    <div class="w-full h-px bg-gray-400 mt-4"></div>
+  </header>
+  
+  <div class="prose prose-gray max-w-none">
+    {{ page.content | safe }}
+  </div>
+  
+  <footer class="mt-12 pt-6 border-t border-gray-600">
+    <a href="{{ get_url(path='blog/') }}" class="text-gray-300 hover:underline">
+      ← back to all thoughts
+    </a>
+  </footer>
+</article>
+{% endblock content %}

@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} - Sidharth's Blog{% endblock title %}
+
+{% block content %}
+<!-- Navigation -->
+<nav class="flex justify-between p-4 pt-8 text-gray-300">
+  <a href="{{ get_url(path='') }}" class="text-3xl text-gray-300 hover:underline">S</a>
+  <!-- <div class="transform text-gray-300 rotate-90 font-bold text-lg">:&nbsp;)</div> -->
+</nav>
+
+<!-- Blog Content -->
+<div class="p-4 mt-8">
+  <h1 class="text-3xl pb-4 text-gray-400 font-kreon">
+    thoughts & ramblings
+  </h1>
+  
+  {% if section.pages %}
+    <div class="space-y-6 mt-8">
+      {% for page in section.pages %}
+        <article class="border-l-2 border-gray-400 pl-4">
+          <h2 class="text-xl text-gray-300 mb-2 font-kreon">
+            <a href="{{ page.permalink | safe }}" class="hover:underline underline-animate">
+              {{ page.title }}
+            </a>
+          </h2>
+          {% if page.summary %}
+            <p class="text-gray-300 mb-2">{{ page.summary }}</p>
+          {% endif %}
+          {% if page.date %}
+            <time class="text-sm text-gray-300">{{ page.date | date(format="%B %d, %Y") }}</time>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="text-custom-gray text-lg mt-8">
+      — no thoughts yet, but they're coming soon...
+    </p>
+  {% endif %}
+</div>
+{% endblock content %}
