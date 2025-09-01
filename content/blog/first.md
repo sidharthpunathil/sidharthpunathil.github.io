@@ -1,6 +1,6 @@
 +++
-title = "My first post"
+title = "quote of your life"
 date = "2025-08-18"
 +++
 
-Time without purpose is a prison.
+— the more you learn the less you know.
