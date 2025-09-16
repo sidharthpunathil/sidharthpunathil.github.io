@@ -4,5 +4,11 @@
   "buildCommand": "./zola build",
   "outputDirectory": "public",
   "trailingSlash": true,
-  "cleanUrls": true
+  "cleanUrls": false,
+  "rewrites": [
+    {
+      "source": "/(.*\\.pdf)",
+      "destination": "/$1"
+    }
+  ]
 }
