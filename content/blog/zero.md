@@ -69,17 +69,20 @@ i joined a hacker academy despite my parents' concerns that "hacking was bad for
 i insisted this was what i wanted to become. <br>
 
 i started as a script kiddie, but i grew from there. <br>
-i taught myself python, built instagram bots, wrote my own tools, <br>
+i taught myself python, i remember building instagram bots that used to get me followers on my side quest experiments, wrote my own tools, <br>
 and spent way too much time trying to brute-force the student login portal. <br>
 it was all part-time fun, but it taught me how systems actually worked—and how they broke. <br>
 
 ## the turning point
 
 at 18, i joined college and rediscovered crypto with fresh eyes. <br>
+i got more serious in coding and programming, more entrepreneurial. <br>
+i started a club in college where we went for hackathons and built products together. <br>
+
 then i won my first hackathon. <br>
 
 that was the lightbulb moment. hackathons became my nobrainer. <br>
-i went on a winning streak—15+ hackathons to date. <br>
+in course of time, we won more than 15 hackathons. <br>
 each one taught me something new: how to build fast, how to pitch better, <br>
 how to work with strangers and ship products in 48 hours. <br>
 
@@ -89,8 +92,12 @@ while the world locked down, i had time to learn from home. <br>
 i earned through crypto airdrops, grants, trading, web3 projects. <br>
 it felt like discovering "internet black box money"—meme coins, yield farming, <br>
 protocols that didn't exist six months prior. <br>
+there was this time i found a loophole in brave browser's bat (basic attention token) distribution<br>
+and discovered a way to get more than intended. <br>
+i built a tool to automate the whole flow. <br>
+didn't go super black hat, but that was definitely a gray hat thing i did. <br>
 i probably made a couple thousand dollars during that period, <br>
-though honestly, the learning was worth more than the money. <br>
+though honestly, the learning was more cool than the money. <br>
 
 ## today
 
