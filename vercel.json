@@ -10,5 +10,16 @@
       "source": "/(.*\\.pdf)",
       "destination": "/$1"
     }
+  ],
+  "headers": [
+    {
+      "source": "/resume.pdf",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow, noarchive, nosnippet"
+        }
+      ]
+    }
   ]
 }
