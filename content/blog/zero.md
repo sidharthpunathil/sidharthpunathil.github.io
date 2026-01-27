@@ -43,10 +43,10 @@ where you could create your own affiliate store for free. <br>
 just add products from other stores with your markup. simple. <br>
 
 marketing, however, was not simple. <br>
-i didn't know anything about it, so i did what any resourceful teenager would do: <br>
-i texted random strangers in chat rooms, pretending to casually mention my products. <br>
+i didn't know anything about it, so i did what any resourceful teenager would do: i went down a rabbit hole of youtube videos trying to learn “marketing.” <br>
+somewhere in that mess, i stumbled onto this absurd idea of selling products by texting random strangers in chat rooms and casually dropping my store link. <br>
 
-it didn't work. wooplr eventually shut down too. <br>
+wooplr eventually shut down too. <br>
 
 ## getting legitimate
 
