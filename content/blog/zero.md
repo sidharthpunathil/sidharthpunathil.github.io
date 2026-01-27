@@ -103,13 +103,15 @@ though honestly, the learning was more cool than the money. <br>
 ## today
 
 i skipped campus placement offers. <br>
-instead, my friends and i started cofount.com. <br>
+instead, started cofount.com with my friends adithya & rajat. <br>
 
 there's still a lot more to earn and grow. <br>
-but looking back at that $20 i never withdrew from linkshrink— <br>
-the journey from there to here taught me something more valuable than any payout: <br>
+but looking back at that $20 i never was able to withdrew<br>
+the journey from there to here taught me something more valuable than any earnings <br>
 
 the internet rewards curiosity, persistence, and the willingness to try things that might not work. <br>
-sometimes they don't. sometimes the platform shuts down before you can cash out. <br>
+sometimes they don't. sometimes the platform shuts down before you can cash out. ofcourse :) <br>
 
 but sometimes, you build something that matters. <br>
+and that makes all the failed experiments worth it. <br>
+and you go all in. <br>
