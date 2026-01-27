@@ -32,9 +32,9 @@ to me, this was the infinite money glitch. <br>
 
 but there was one problem: i was 15. no bank account meant no withdrawals. <br>
 
-linkshrink—with its dark green logo that i can still picture—eventually sent me an email years later. <br>
+linkshrink—with its dark green logo that i can still picture eventually sent me an email years later. <br>
 we're shutting down. withdraw your amount now. <br>
-i had around $20 waiting, but i had no option. i was still too young, still had no bank account. <br>
+i had around ~$20 waiting, but i had no option, still had no bank account. <br>
 by the time i came of age, the platform was gone. <br>
 
 twenty dollars. my first internet money. gone. <br>
