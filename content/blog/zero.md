@@ -6,7 +6,7 @@ date = "2025-09-11"
 everything started with an experiment, i was 15. <br>
 
 back then, i was all-in on video games. <br>
-prince of persia (dahaka chase and thrill was unreal) to the grand theft auto's and call of duty's, all i had time was for playing games, nothing else mattered. <br>
+from prince of persia (that dahaka chase was unreal) to grand theft auto (CJ on the roll of a lifetime), all i had time for was playing games. nothing else mattered. <br>
 
 i never owned a game boy (the dream), but i had something better: <br>
 an emulator on my pc and an insatiable curiosity. <br>
@@ -33,8 +33,9 @@ to me, this was the infinite money glitch. <br>
 but there was one problem: i was 15. no bank account meant no withdrawals. <br>
 
 linkshrink—with its dark green logo that i can still picture—eventually sent me an email years later. <br>
-i had around $20 waiting for withdrawal. <br>
-by the time i came of age and could actually claim it, the platform had shut down. <br>
+we're shutting down. withdraw your amount now. <br>
+i had around $20 waiting, but i had no option. i was still too young, still had no bank account. <br>
+by the time i came of age, the platform was gone. <br>
 
 twenty dollars. my first internet money. gone. <br>
 
