@@ -3,14 +3,14 @@ title = "my first internet dollar"
 date = "2025-09-11"
 +++
 
-everything started with an experiment when i was 15. <br>
+everything started with an experiment, i was 15. <br>
 
 back then, i was all-in on video games. <br>
-i didn't own a game boy—though having one was the dream—but i had something better: <br>
+i never owned a game boy (the dream), but i had something better: <br>
 an emulator on my pc and an insatiable curiosity. <br>
-pokémon red, blue, firered, ruby, emerald—i played them all, cracked them all. <br>
+pokémon red, blue, firered, ruby, diamond, perl i played them all<br>
 
-i wanted to learn reverse engineering just so i could crack any game i wanted. <br>
+wanted to learn reverse engineering just so i could crack any game i wanted. <br>
 x64dbg and decompilers became my playground. <br>
 the day i successfully cracked winrar? pure euphoria. <br>
 while today's kids that age are building million-dollar startups from their bedrooms, <br>
@@ -69,7 +69,8 @@ i insisted this was what i wanted to become. <br>
 
 i started as a script kiddie, but i grew from there. <br>
 i taught myself python, i remember building instagram bots that used to get me followers on my side quest experiments, wrote my own tools, <br>
-and spent way too much time trying to brute-force the student login portal. <br>
+spent way too much time inside hacker forums, discovering tools, tactics, and little pieces of internet gold— <br>
+and yes, trying to brute-force the student login portal was a thing of the past. <br>
 it was all part-time fun, but it taught me how systems actually worked—and how they broke. <br>
 
 ## the turning point
