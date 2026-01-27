@@ -6,11 +6,13 @@ date = "2025-09-11"
 everything started with an experiment, i was 15. <br>
 
 back then, i was all-in on video games. <br>
+prince of persia (dahaka chase and thrill was unreal) to the grand theft auto's and call of duty's, all i had time was for playing games, nothing else mattered. <br>
+
 i never owned a game boy (the dream), but i had something better: <br>
 an emulator on my pc and an insatiable curiosity. <br>
 pokémon red, blue, firered, ruby, diamond, perl i played them all<br>
 
-wanted to learn reverse engineering just so i could crack any game i wanted. <br>
+so ended up wanting to learn reverse engineering just so i could crack any game i wanted. <br>
 x64dbg and decompilers became my playground. <br>
 the day i successfully cracked winrar? pure euphoria. <br>
 while today's kids that age are building million-dollar startups from their bedrooms, <br>
