@@ -89,9 +89,10 @@ how to work with strangers and ship products in 48 hours. <br>
 then covid hit. <br>
 
 while the world locked down, i had time to learn from home. <br>
-i earned through crypto airdrops, grants, trading, web3 projects. <br>
+that was peak web3: airdrops, grants, trading, projects appearing overnight.  <br>
 it felt like discovering "internet black box money"—meme coins, yield farming, <br>
 protocols that didn't exist six months prior. <br>
+
 there was this time i found a loophole in brave browser's bat (basic attention token) distribution<br>
 and discovered a way to get more than intended. <br>
 i built a tool to automate the whole flow. <br>
