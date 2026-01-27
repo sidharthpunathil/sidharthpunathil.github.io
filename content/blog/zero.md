@@ -52,8 +52,7 @@ wooplr eventually shut down too. <br>
 
 high school brought my first real wins. <br>
 i got myself a minor pan card (since i wasn't 18 yet) and opened a bank account near my school. <br>
-
-armed with actual financial infrastructure, i dove into amazon affiliate marketing. <br>
+with an actual bank account now backing me, i went all-in on amazon affiliate marketing. <br>
 being the tech guy in my circle paid off—i referred all my friends to gaming laptops. <br>
 back then, the commissions were generous: ~$50 per affiliate sale. <br>
 
