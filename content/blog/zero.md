@@ -1,6 +1,7 @@
 +++
 title = "my first internet dollar"
 date = "2025-09-11"
+description = "How I went from cracking WinRAR at 15 to cofounding a company — the story of my first internet dollar."
 +++
 
 the house was dark except for my screen. it was 2am, maybe 3. i was 15, glued to x64dbg, staring at a wall of hex values i barely understood. somewhere in that mess of bytes was the thing that made winrar ask you to pay. i just had to find it.

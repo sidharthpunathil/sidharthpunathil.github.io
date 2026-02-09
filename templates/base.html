@@ -4,7 +4,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% block title %}Sidharth's Blog{% endblock title %}</title>
+  <title>{% block title %}Sidharth Punathil{% endblock title %}</title>
+  <meta name="description" content="{% block description %}Sidharth Punathil — software engineer, builder, and cofounder at Cofount.{% endblock description %}">
+  <link rel="canonical" href="{% block canonical %}{{ current_url | default(value=config.base_url) }}{% endblock canonical %}">
+  <meta property="og:title" content="{% block og_title %}Sidharth Punathil{% endblock og_title %}">
+  <meta property="og:description" content="{% block og_description %}Sidharth Punathil — software engineer, builder, and cofounder at Cofount.{% endblock og_description %}">
+  <meta property="og:type" content="{% block og_type %}website{% endblock og_type %}">
+  <meta property="og:url" content="{{ current_url | default(value=config.base_url) }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% block twitter_title %}Sidharth Punathil{% endblock twitter_title %}">
+  <meta name="twitter:description" content="{% block twitter_description %}Sidharth Punathil — software engineer, builder, and cofounder at Cofount.{% endblock twitter_description %}">
   <link rel="icon" type="image/gif" href="/favicon.gif" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

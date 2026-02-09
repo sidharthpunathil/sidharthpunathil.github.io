@@ -1,6 +1,14 @@
 {% extends "base.html" %}
 
-{% block title %}{{ page.title }} - Sidharth's Blog{% endblock title %}
+{% block title %}{{ page.title }} - Sidharth Punathil{% endblock title %}
+
+{% block description %}{{ page.description | default(value="Sidharth Punathil — software engineer, builder, and cofounder at Cofount.") }}{% endblock description %}
+
+{% block og_title %}{{ page.title }}{% endblock og_title %}
+{% block og_description %}{{ page.description | default(value="Sidharth Punathil — software engineer, builder, and cofounder at Cofount.") }}{% endblock og_description %}
+{% block og_type %}article{% endblock og_type %}
+{% block twitter_title %}{{ page.title }}{% endblock twitter_title %}
+{% block twitter_description %}{{ page.description | default(value="Sidharth Punathil — software engineer, builder, and cofounder at Cofount.") }}{% endblock twitter_description %}
 
 {% block content %}
 <!-- Navigation -->
