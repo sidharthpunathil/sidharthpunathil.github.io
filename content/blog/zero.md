@@ -9,17 +9,17 @@ i'd been at this for days. not because anyone told me to. not for school, not fo
 
 the moment it worked — when the nag screen just... didn't appear — i didn't move. i sat there, staring at the screen, waiting for it to come back. it didn't. i closed the program. opened it again. nothing. the satisfaction was unreal. i never told a soul. all my victories were private.
 
+today, 15-year-olds are printing millions from their bedrooms. age was never the barrier.
+
 it reinforced something i was starting to believe. you can get whatever you want if you're stubborn enough to bend it your way.
 
 ## how it started
 
 i never owned a game boy. i wanted one so bad, but we didn't have that kind of money for toys. what i did have was a pc and an emulator i found from the internet.
 
-i ran through every pokémon game i could find — red, blue, ruby, firered, diamond.
+pokémon, prince of persia, grand theft auto, claw — i played through everything i could find. all i had time for was games.
 
-prince of persia, grand theft auto, claw — all i had time for was games.
-
-then i figured out — if i learned reverse engineering, i could crack and play any game i wanted. that's how i fell into the whole rabbit hole of RE.
+that's how i figured out — if i learned reverse engineering, i could crack and play any game i wanted.
 
 ## the $ i never got
 
@@ -43,7 +43,7 @@ by the time i finally opened one, the platform was gone. the website, the dashbo
 
 ## breaking things to understand them
 
-after that, something shifted. i was getting more interested and invested into the world of programming. i picked up python, and automating things felt like magic — it was my favourite thing to do.
+after that, something shifted. i was getting more interested and invested in the world of programming. i picked up python, and automating things felt like magic — it was my favourite thing to do.
 
 i joined a hacker academy. my parents thought "hacking" meant i was going to end up in jail. i told them this was what i wanted to do with my life. they weren't convinced, but they let me go.
 
@@ -51,7 +51,7 @@ i started by running tools built by faceless accounts with god-tier pfp on hacke
 
 i spent nights inside forums where people shared things you couldn't find on google. not because it was secret, but because no one outside those circles cared enough to look.
 
-my username on cracked.to was borrowed from a video game character. it started gaining traction after i shared something the forum considered high value. the platform gave me a rank — suddenly i had access to every resource on there. i'd lurk like a ghost, never reacting, never interacting, just quietly taking what i needed. that was a crazy feeling.
+my username on cracked.to was borrowed from a video game character. it started gaining traction after i shared something the users considered high value. the platform gave me a rank — suddenly i had access to every resource on there. i'd lurk like a ghost, never reacting, never interacting, just quietly taking what i needed. that was a crazy feeling.
 
 according to my friend, the most useful program i ever wrote was a brute-force script to pull details of his crush from the administrative portal.
 
@@ -59,7 +59,7 @@ every system i broke taught me how to build a better one.
 
 ## the moment it clicked
 
-i was 18, joined college. discovered hackathons randomly on the internet — i'd always been good at finding stuff online, maybe that's what connected. walked into my first one with zero expectations. forty-eight hours later, we won.
+i was 18, joined college. discovered hackathons randomly on the internet — i'd always been good at finding stuff online, maybe that's what clicked. walked into my first one with zero expectations. forty-eight hours later, we won.
 
 i remember the exact feeling — not the prize, not the announcement — but the moment during the build when everything was falling into place. the code was working, the pitch was sharp, and for the first time, the thing i'd been doing alone in my room for years suddenly mattered to other people. this was before ai could do it all for you — every line was handwritten, and all those late nights were finally paying off.
 
@@ -69,9 +69,9 @@ each one compressed months of learning into a single weekend. how to ship fast. 
 
 then covid locked the world down, and i had nothing but time.
 
-somewhere in there, i rediscovered crypto — last time was high school, but this time i went all in. airdrops, grants, meme coins, yield farming — protocols appearing overnight and disappearing just as fast.
+somewhere in there, i rediscovered crypto — last time was high school, but this time i went all in. airdrops, grants, meme coins, yield farming, internet black box money — protocols appearing overnight and disappearing just as fast.
 
-i remember finding a loophole in brave browser's token distribution and built a tool to automate it. it wasn't a critical issue — just something you could automate at scale. gray hat? probably. i never shared it online. but me and my friends made a couple thousand dollars and learned more about bending the rules — which was what always gave me a kick.
+i found a loophole in brave browser's token distribution and built a tool to automate it. it wasn't a critical issue — just something you could automate at scale. gray hat? probably. i never shared it online. but me and my friends made a couple thousand dollars and learned more about bending the rules — which was what always gave me a kick.
 
 ## the bet
 
