@@ -3,7 +3,7 @@ title = "my first internet dollar"
 date = "2025-09-11"
 +++
 
-the screen was bright enough to light half the room. it was 2am, maybe 3. i was 15, glued to x64dbg, staring at a wall of hex values i barely understood. somewhere in that mess of bytes was the thing that made winrar ask you to pay. i just had to find it.
+the house was dark except for my screen. it was 2am, maybe 3. i was 15, glued to x64dbg, staring at a wall of hex values i barely understood. somewhere in that mess of bytes was the thing that made winrar ask you to pay. i just had to find it.
 
 i'd been at this for days. not because anyone told me to. not for school, not for a grade. i wanted to crack winrar because i wanted to know if i *could*.
 
