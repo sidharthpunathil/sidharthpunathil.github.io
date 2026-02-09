@@ -9,7 +9,7 @@ i'd been at this for days. not because anyone told me to. not for school, not fo
 
 the moment it worked — when the nag screen just... didn't appear — i didn't move. i sat there, staring at the screen, waiting for it to come back. it didn't. i closed the program. opened it again. nothing. the satisfaction was unreal. i didn't tell anyone. all my victories were private.
 
-it reinforced something i was starting to believe — you can get whatever you want if you're stubborn enough to bend it your way.
+i was teaching myself reverse engineering by doing — and it reinforced something i was starting to believe. you can get whatever you want if you're stubborn enough to bend it your way.
 
 ## how it started
 
