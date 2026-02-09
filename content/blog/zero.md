@@ -55,7 +55,7 @@ i spent nights inside forums where people shared things you couldn't find on goo
 
 my username on cracked.to was borrowed from a video game character. it started gaining traction after i shared something the forum considered high value. the platform gave me a rank — suddenly i had access to every resource on there. i'd lurk like a ghost, never reacting, never interacting, just quietly taking what i needed. that was a crazy feeling.
 
-i built a brute-force system to pull details of my friend's crush from the school portal. according to him, it was the most useful program i ever wrote.
+according to my friend, the most useful program i ever wrote was a brute-force script to pull details of his crush from the portal.
 
 every system i broke taught me how to build a better one.
 
