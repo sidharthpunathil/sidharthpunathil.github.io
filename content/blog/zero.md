@@ -3,118 +3,84 @@ title = "my first internet dollar"
 date = "2025-09-11"
 +++
 
-everything started with an experiment, i was 15.
+the screen was bright enough to light half the room. it was 2am, maybe 3. i was 15, glued to x64dbg, staring at a wall of hex values i barely understood. somewhere in that mess of bytes was the thing that made winrar ask you to pay. i just had to find it.
 
-back then, i was all-in on video games.
-from prince of persia (that dahaka chase was unreal) to grand theft auto (CJ on the roll of a lifetime), all i had time for was playing games. nothing else mattered.
+i'd been at this for days. not because anyone told me to. not for school, not for a grade. i wanted to crack winrar because i wanted to know if i *could*.
 
-i never owned a game boy (the dream), but i had something better:
-an emulator on my pc and an insatiable curiosity.
-pokémon red, blue, firered, ruby, diamond, perl i played them all
+the moment it worked — when the nag screen just... didn't appear — i didn't move. i sat there, staring at the screen, waiting for it to come back. it didn't. i closed the program. opened it again. nothing. the satisfaction was unreal. i didn't tell anyone. all my victories were private.
 
-so ended up wanting to learn reverse engineering just so i could crack any game i wanted.
-x64dbg and decompilers became my playground.
-the day i successfully cracked winrar? pure euphoria.
-while today's kids that age are building million-dollar startups from their bedrooms,
-i was playing with 1's, 0's, and a couple of dots, trying to outsmart systems that weren't meant to be outsmarted.
+it reinforced something i was starting to believe — you can get whatever you want if you're stubborn enough to bend it your way.
 
-## the stupid and foolish days
+## how it started
 
-somewhere around that time, i discovered link-shortening platforms.
-the concept was simple: convert traffic into ad views, ad views into money.
-i started posting random videos on youtube—game tutorials, crack guides, whatever worked—
-and funneling viewers through my shortened links on linkshrink.
+i never owned a game boy. that was the dream, but we didn't have that kind of money for toys. what i did have was a beat-up pc and an emulator i found from the internet.
 
-the system had rules. i used proxies to bypass them.
-high-quality proxies worked better, but my accounts usually got banned anyway.
-i'd browse hacker forums late into the night, hunting for new proxy tools.
-to me, this was the infinite money glitch.
+pokémon red, blue, ruby, firered, diamond. played every single one on that emulator.
 
-but there was one problem: i was 15. no bank account meant no withdrawals.
+but i wasn't just playing the games. i was pulling them apart. i wanted to know why things worked. how a game stored your save data, how a cheat code actually changed memory values, how someone could build an entire world inside a machine.
 
-linkshrink—with its dark green logo that i can still picture eventually sent me an email years later.
-we're shutting down. withdraw your amount now.
-i had around ~$20 waiting, but i had no option, still had no bank account.
-by the time i came of age, the platform was gone.
+prince of persia, grand theft auto, claw — i wasn't just a kid playing games. i was a kid who couldn't stop asking *how*.
 
-twenty dollars. my first internet money. gone.
+that curiosity is what eventually led me to reverse engineering. how to break the system.
 
-## the e-commerce detour
+## the $ i never got
 
-around the same time, i discovered a platform called wooplr
-where you could create your own affiliate store for free.
-just add products from other stores with your markup. simple.
+somewhere around that time, i discovered link-shortening platforms. the idea was simple: you wrap a link in ads, share it everywhere, and get paid per click. linkshrink. dark green logo. i can still picture it.
 
-marketing, however, was not simple.
-i didn't know anything about it, so i did what any resourceful teenager would do: i went down a rabbit hole of youtube videos trying to learn "marketing."
-somewhere in that mess, i stumbled onto this absurd idea of selling products by texting random strangers in chat rooms and casually dropping my store link.
+i started posting game tutorials on youtube — how to crack this, how to mod that — and every link in the description went through linkshrink. i'd check my dashboard obsessively. $0.30. $0.87. $1.14. watching those numbers tick up felt like discovering a cheat code for real life.
 
-wooplr eventually shut down too.
+then i found out about proxies.
 
-## getting legitimate
+if you could fake traffic from high-value countries, the payout per click went up. so i did. i'd browse hacker forums at 2am, hunting for proxy lists, rotating IPs, trying to stay one step ahead of the ban hammer. most of my accounts got nuked. i'd just make new ones.
 
-high school brought my first real wins.
-i got myself a minor pan card (since i wasn't 18 yet) and opened a bank account near my school.
-with an actual bank account now backing me, i went all-in on amazon affiliate marketing.
-being the tech guy in my circle paid off—i referred all my friends to gaming laptops.
-back then, the commissions were generous: ~$50 per affiliate sale.
+to a 15-year-old, this was the infinite money glitch. i was going to be rich.
 
-i also discovered crypto around this time.
-i tried mining on my potato pc (sadly, i didn't save my dogecoin private keys).
-between affiliate marketing and crypto experiments, i was doing every small gig i could find—
-including falling for multi-level marketing scams that promised the world and delivered nothing.
+except for one problem: i didn't have a bank account. i was fifteen. you can't withdraw money from the internet if you don't have a place to put it. so i watched my balance climb and figured i'd cash out eventually. no rush.
 
-## the hacker phase
+years later, an email showed up. linkshrink was shutting down. withdraw your balance now.
 
-my interest shifted to cybersecurity.
-i joined a hacker academy despite my parents' concerns that "hacking was bad for kids."
-i insisted this was what i wanted to become.
+i still didn't have a bank account.
 
-i started as a script kiddie, but i grew from there.
-i taught myself python, i remember building instagram bots that used to get me followers on my side quest experiments, wrote my own tools,
-spent way too much time inside hacker forums, discovering tools, tactics, and little pieces of internet gold—
-and yes, trying to brute-force the student login portal was a thing of the past.
-it was all part-time fun, but it taught me how systems actually worked—and how they broke.
+by the time i finally opened one, the platform was gone. the website, the dashboard, the dark green logo — all of it. my first internet money. vanished before i ever touched it.
 
-## the turning point
+## breaking things to understand them
 
-at 18, i joined college and rediscovered crypto with fresh eyes.
-i got more serious in coding and programming, more entrepreneurial.
-i started a club in college where we went for hackathons and built products together.
+after that, something shifted. i stopped trying to make money from the internet and started trying to understand it. i picked up python, and automating things felt like magic — writing a few lines and watching the computer do your work for you.
 
-then i won my first hackathon.
+i joined a hacker academy. my parents thought "hacking" meant i was going to end up in jail. i told them this was what i wanted to do with my life. they weren't convinced, but they let me go.
 
-that was the lightbulb moment. hackathons became my nobrainer.
-in course of time, we won more than 15 hackathons.
-each one taught me something new: how to build fast, how to pitch better,
-how to work with strangers and ship products in 48 hours.
+i started where everyone starts — as a script kiddie, running tools i didn't fully understand against targets i probably shouldn't have been touching. but i kept going. i taught myself python. built instagram bots that actually worked. wrote my own tools from scratch.
 
-then covid hit.
+i spent nights inside forums where people shared things you couldn't find on google. not because it was secret, but because no one outside those circles cared enough to look.
 
-while the world locked down, i had time to learn from home.
-that was peak web3: airdrops, grants, trading, projects appearing overnight.
-it felt like discovering "internet black box money"—meme coins, yield farming,
-protocols that didn't exist six months prior.
+my username on cracked.to was borrowed from a video game character. it started gaining traction after i shared something the forum considered high value. the platform gave me a rank — suddenly i had access to every resource on there. i'd lurk like a ghost, never reacting, never interacting, just quietly taking what i needed. that was a crazy feeling.
 
-there was this time i found a loophole in brave browser's bat (basic attention token) distribution
-and discovered a way to get more than intended.
-i built a tool to automate the whole flow.
-didn't go super black hat, but that was definitely a gray hat thing i did.
-i probably made a couple thousand dollars during that period,
-though honestly, the learning was more cool than the money.
+i built a brute-force system to pull details of my friend's crush from the school portal. according to him, it was the most useful program i ever wrote.
 
-## today
+every system i broke taught me how to build a better one.
 
-i skipped campus placement offers.
-instead, started cofount.com with my friends adithya & rajat.
+## the moment it clicked
 
-there's still a lot more to earn and grow.
-but looking back at that $20 i never was able to withdrew
-the journey from there to here taught me something more valuable than any earnings
+at 18, i walked into my first hackathon not knowing what to expect. forty-eight hours later, we won.
 
-the internet rewards curiosity, persistence, and the willingness to try things that might not work.
-sometimes they don't. sometimes the platform shuts down before you can cash out. ofcourse :)
+i remember the exact feeling — not the prize, not the announcement — but the moment during the build when everything was falling into place. the code was working, the pitch was sharp, and for the first time, the thing i'd been doing alone in my room for years suddenly mattered to other people. this was before ai could do it all for you — every line was ours, and all those late nights were finally paying off.
 
-but sometimes, you build something that matters.
-and that makes all the failed experiments worth it.
-and you go all in.
+after that, we couldn't stop. our team started to attend more, and we kept winning.
+
+each one compressed months of learning into a single weekend. how to ship fast. how to pitch under pressure. how to build with strangers and trust the process.
+
+then covid locked the world down, and i had nothing but time.
+
+i was shifting my focus to bitcoin and blockchains — the concept fascinated me. airdrops, grants, meme coins, yield farming — protocols appearing overnight and disappearing just as fast. i remember finding a loophole in brave browser's token distribution and built a tool to automate it. it wasn't a critical issue — just something you could automate at scale. i never shared it online. but me and my friends made a couple thousand dollars and learned more about gaming the game — which was what always gave me a kick.
+
+## the bet
+
+when campus placements came around, i got a couple of offers but was never actively invested in the job search.
+
+whenever i was back in my hometown, i'd catch up with adithya and rajat — the boys from high school. one of those catchups turned into [cofount](https://cofount.com).
+
+no safety net. no backup plan. just three people who'd rather build something of their own than collect a salary building someone else's dream.
+
+if there's one thing all of this taught me — you can make something from nothing on the internet, if you're willing to sit in front of a screen long enough to figure out how.
+
+i'm still sitting here.
