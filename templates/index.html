@@ -2,33 +2,29 @@
 
 {% block content %}
 <!-- Navigation -->
-<nav class="flex justify-between p-4 pt-8 text-gray-800">
-  <h1 class="text-3xl text-gray-300">S</h1>
-  <!-- <div class="transform text-gray-300 rotate-90 font-bold text-lg">:&nbsp;)</div> -->
+<nav class="flex justify-between p-6 pt-10">
+  <h1 class="text-3xl font-garamond text-apple-white tracking-tight">S</h1>
 </nav>
 
 <!-- Main Content -->
-<div class="lg:mt-32 mt-16 p-4">
-  <h1 class="text-2xl pb-2 text-[#9ca3af] font-garamond">
+<div class="lg:mt-32 mt-20 px-6">
+  <h1 class="text-3xl pb-4 text-apple-white font-garamond italic leading-snug">
     just a guy exploring beautifully written code.
   </h1>
-  <p class="text-xl text-gray-300">
-    — obsessed with building cool stuff that actually works (most of the time)<br />
-    — currently at <a href="https://cofount.com/" class="underline font-extrabold">@cofountlabs</a><br />
-    — curious for all things pioneering. think doofenshmirtz, but for good.<br />
-    — rust, golang by night, caffeine by day. <br />
-    — yes, i skipped the css. <br />
-  </p>
-  <br />
-  
-  <!-- Blog Link -->
-  <a href="{{ get_url(path='blog/') }}" class="text-gray-300 hover:underline text-xl">
-    — read my thoughts here
-  </a>
-  <br />
-  
-  <a href="https://cal.com/callmesid" class="text-gray-300 hover:underline text-xl ">
-    — click here to schedule a call
-  </a>
+  <div class="mt-6 space-y-3 text-lg text-apple-gray font-light leading-relaxed">
+    <p>obsessed with building cool stuff that actually works (most of the time)</p>
+    <p>currently at <a href="https://cofount.com/" class="text-apple-white font-normal">@cofountlabs</a></p>
+    <p>curious for all things pioneering. think doofenshmirtz, but for good.</p>
+    <p>rust, golang by night, caffeine by day.</p>
+  </div>
+
+  <div class="mt-12 space-y-4">
+    <a href="{{ get_url(path='blog/') }}" class="block text-apple-white text-lg hover:text-apple-gray">
+      read my thoughts &rarr;
+    </a>
+    <a href="https://cal.com/callmesid" class="block text-apple-white text-lg hover:text-apple-gray">
+      schedule a call &rarr;
+    </a>
+  </div>
 </div>
 {% endblock content %}

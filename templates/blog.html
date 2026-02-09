@@ -4,38 +4,40 @@
 
 {% block content %}
 <!-- Navigation -->
-<nav class="flex justify-between p-4 pt-8 text-gray-300">
-  <a href="{{ get_url(path='') }}" class="text-3xl text-gray-300 hover:underline">S</a>
-  <!-- <div class="transform text-gray-300 rotate-90 font-bold text-lg">:&nbsp;)</div> -->
+<nav class="flex justify-between p-6 pt-10">
+  <a href="{{ get_url(path='') }}" class="text-3xl font-garamond text-apple-white tracking-tight hover:opacity-60">S</a>
 </nav>
 
 <!-- Blog Content -->
-<div class="p-4 mt-8">
-  <h1 class="text-3xl pb-4 text-gray-400 font-kreon">
+<div class="px-6 mt-12">
+  <h1 class="text-3xl text-apple-white font-garamond italic">
     thoughts & ramblings
   </h1>
-  
+
   {% if section.pages %}
-    <div class="space-y-6 mt-8">
+    <div class="mt-12 space-y-10">
       {% for page in section.pages %}
-        <article class="border-l-2 border-gray-400 pl-4">
-          <h2 class="text-xl text-gray-300 mb-2 font-kreon">
-            <a href="{{ page.permalink | safe }}" class="hover:underline underline-animate">
+        <article class="group">
+          <a href="{{ page.permalink | safe }}" class="block">
+            <h2 class="text-xl text-apple-white mb-2 font-garamond group-hover:opacity-60 transition-opacity duration-200">
               {{ page.title }}
-            </a>
-          </h2>
-          {% if page.summary %}
-            <p class="text-gray-300 mb-2">{{ page.summary }}</p>
-          {% endif %}
-          {% if page.date %}
-            <time class="text-sm text-gray-300">{{ page.date | date(format="%B %d, %Y") }}</time>
-          {% endif %}
+            </h2>
+            {% if page.summary %}
+              <p class="text-apple-gray text-base font-light leading-relaxed mb-2">{{ page.summary }}</p>
+            {% endif %}
+            {% if page.date %}
+              <time class="text-xs text-apple-gray/50 tracking-widest uppercase">{{ page.date | date(format="%B %d, %Y") }}</time>
+            {% endif %}
+          </a>
         </article>
+        {% if not loop.last %}
+          <div class="h-px bg-apple-border/30"></div>
+        {% endif %}
       {% endfor %}
     </div>
   {% else %}
-    <p class="text-custom-gray text-lg mt-8">
-      — no thoughts yet, but they're coming soon...
+    <p class="text-apple-gray text-lg mt-12 font-light">
+      no thoughts yet, but they're coming soon...
     </p>
   {% endif %}
 </div>

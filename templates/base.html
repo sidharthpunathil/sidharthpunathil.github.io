@@ -9,43 +9,56 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
-  <!-- <link rel="stylesheet" href="/style.css"> -->
+  <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            apple: {
+              black: '#0a0a0a',
+              white: '#f5f5f7',
+              gray: '#86868b',
+              dim: '#1d1d1f',
+              border: '#424245',
+            }
+          },
+          fontFamily: {
+            garamond: ['"EB Garamond"', 'serif'],
+            jakarta: ['"Plus Jakarta Sans"', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+  <style type="text/tailwindcss">
+    @layer base {
+      ::selection {
+        background-color: #f5f5f7;
+        color: #0a0a0a;
+      }
+      a { @apply transition-opacity duration-200; }
+      a:hover { @apply opacity-60; }
+    }
+  </style>
 </head>
 
-<body class="bg-[#708090] text-gray-900 min-h-screen font-garamond">
+<body class="bg-apple-black text-apple-white min-h-screen font-jakarta antialiased">
   <div class="mx-auto max-w-2xl">
     {% block content %} {% endblock content %}
   </div>
-  
-  <div class="fixed bottom-2 w-screen">
-    <div class="flex flex-row items-center justify-center w-full">
-      <ul class="flex-1 flex justify-center items-center list-none p-2 gap-2 md:gap-2 py-0">
-        <li>
-          <a href="mailto:hello@sidharth.co" class="text-gray-300 hover:underline">
-            mail
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/sidharthpunathil" class="text-gray-300 hover:underline">
-            proof-of-work
-          </a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/sidharthpunathil/" class="text-gray-300 hover:underline">
-            in
-          </a>
-        </li>
-        <li>
-          <a href="https://x.com/0xS1dharth" class="text-gray-300 hover:underline">
-            tweets
-          </a>
-        </li>
-      </ul>
+
+  <footer class="mx-auto max-w-2xl px-6 pb-12 pt-32">
+    <div class="border-t border-apple-border/20 pt-6 flex justify-between items-center">
+      <p class="text-apple-gray/30 text-xs tracking-wide">made by human. 2026.</p>
+      <div class="flex items-center gap-5">
+        <a href="mailto:hello@sidharth.co" class="text-apple-gray/40 text-xs tracking-wide hover:text-apple-white">mail</a>
+        <a href="https://github.com/sidharthpunathil" class="text-apple-gray/40 text-xs tracking-wide hover:text-apple-white">github</a>
+        <a href="https://www.linkedin.com/in/sidharthpunathil/" class="text-apple-gray/40 text-xs tracking-wide hover:text-apple-white">linkedin</a>
+        <a href="https://x.com/0xS1dharth" class="text-apple-gray/40 text-xs tracking-wide hover:text-apple-white">x</a>
+      </div>
     </div>
-    <div class="flex bottom-4 items-center justify-center px-5 mb-4 pb-4">
-      <p class="text-gray-300 text-md"><span>— made by human. 2025.</span></p>
-    </div>
-  </div>
+  </footer>
 </body>
 
 </html>
