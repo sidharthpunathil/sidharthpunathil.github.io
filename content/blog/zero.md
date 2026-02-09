@@ -45,7 +45,7 @@ by the time i finally opened one, the platform was gone. the website, the dashbo
 
 ## breaking things to understand them
 
-after that, something shifted. i stopped trying to make money from the internet and started trying to understand it. i picked up python, and automating things felt like magic — writing a few lines and watching the computer do your work for you.
+after that, something shifted. i was getting more interested and invested into the world of programming. i picked up python, and automating things felt like magic — it was my favourite thing to do.
 
 i joined a hacker academy. my parents thought "hacking" meant i was going to end up in jail. i told them this was what i wanted to do with my life. they weren't convinced, but they let me go.
 
