@@ -1,85 +1,76 @@
 +++
 title = "my first internet dollar"
 date = "2025-09-11"
-description = "How I went from cracking WinRAR at 15 to cofounding a company -the story of my first internet dollar."
+description = "how i went from cracking winrar at 15 to cofounding a company"
 +++
 
-the house was dark except for my screen. it was 2am, maybe 3. i was 15, glued to x64dbg, staring at a wall of hex values i barely understood. somewhere in that mess of bytes was the thing that made winrar ask you to pay. i just had to find it.
+2am maybe 3, had x64dbg open, staring at hex values i barely understood. somewhere in there was the thing that made winrar ask you to pay. i just had to find it.
 
-i'd been at this for days. not because anyone told me to. not for school, not for a grade. i wanted to crack winrar because i wanted to know if i *could*.
+i'd been at this for days. not for school, not for marks, nothing. i just wanted to know if i could do it.
 
-the moment it worked -when the nag screen just... didn't appear -i didn't move. i sat there, staring at the screen, waiting for it to come back. it didn't. i closed the program. opened it again. nothing. the satisfaction was unreal. i never told a soul. all my victories were private.
+when it finally worked, when the nag screen just didn't show up, i sat there for a solid minute doing nothing. closed winrar. opened it again. still nothing. i remember grinning like an idiot alone in my room at 3am. never told anyone.
 
-today, 15-year-olds are printing millions from their bedrooms. age was never the barrier.
-
-it reinforced something i was starting to believe. you can get whatever you want if you're stubborn enough to bend it your way.
 
 ## how it started
 
-i never owned a game boy. i wanted one so bad, but we didn't have that kind of money for toys. what i did have was a pc and an emulator i found from the internet.
+i never had a game boy. wanted one badly, but we didn't have that kind of money lying around for toys. what i did have was a pc and an emulator i found online.
 
-pokémon, prince of persia, grand theft auto, claw -i played through everything i could find. all i had time for was games.
+pokémon, prince of persia, gta, claw, i went through everything. genuinely all i did was play games.
 
-that's how i figured out -if i learned reverse engineering, i could crack and play any game i wanted.
+and that's basically how i got into reverse engineering. if i could figure out how to crack stuff, i could play whatever i wanted. just pure motivation.
 
-## the $ i never got
+## the money i never got
 
-somewhere around that time, i discovered link-shortening platforms. the idea was simple: you wrap a link in ads, share it everywhere, and get paid per click. linkshrink. dark green logo. i can still picture it.
+around the same time i found out about link shorteners. the deal was simple you wrap a download link in ads, share it, get paid per click. i used linkshrink. dark green logo. i can still picture it.
 
-i started posting game tutorials on youtube -how to crack this, how to mod that -and every link in the description went through linkshrink. i'd check my dashboard obsessively. $0.30. $0.87. $1.14. watching those numbers tick up felt like discovering a cheat code for real life.
+i was already posting game tutorials on youtube how to crack this, how to mod that, so i just ran every description link through linkshrink. i'd refresh the dashboard like a maniac. $0.30. $0.87. $1.14.
 
 then i found out about proxies.
 
-if you could fake traffic from high-value countries, the payout per click went up. so i did. i'd browse hacker forums, hunting for proxy lists, rotating IPs, trying to stay one step ahead of the ban hammer. most of my accounts got nuked. i'd just make new ones.
+turns out if you faked traffic from the US or UK, the payout per click went up. so obviously i did that. i'd dig through hacker forums for proxy lists, rotate IPs, try to not get caught. most of my accounts got banned. i'd just make new ones. at 15, this felt like i'd broken the system.
 
-to a 15-year-old, this was the infinite money glitch. i was going to be rich.
+one small problem though: i didn't have a bank account. you can't actually withdraw internet money if there's nowhere to put it. so i just... watched the balance go up and figured i'd deal with it later.
 
-except for one problem: i didn't have a bank account. you can't withdraw money from the internet if you don't have a place to put it. so i watched my balance climb and figured i'd cash out eventually. no rush.
+years later, got an email. linkshrink shutting down. withdraw now.
 
-years later, an email showed up. linkshrink was shutting down. withdraw your balance now.
+still no bank account.
 
-i still didn't have a bank account.
+by the time i finally opened one, the site was gone. dashboard, balance, dark green logo, all of it. my first internet money, and i literally never touched it.
 
-by the time i finally opened one, the platform was gone. the website, the dashboard, the dark green logo -all of it. my first internet money. vanished before i ever touched it.
+## breaking things
 
-## breaking things to understand them
+after that i started getting more into actual programming. picked up python, and automating things instantly became my favourite thing to do. something about writing a script and watching it just do stuff for you, i don't know man, it just hit different.
 
-after that, something shifted. i was getting more interested and invested in the world of programming. i picked up python, and automating things felt like magic -it was my favourite thing to do.
+i joined a hacker academy. my parents heard "hacking" and immediately assumed i was going to end up in jail. i told them this is what i want to do. they weren't convinced but they let me go, which in hindsight was very chill of them.
 
-i joined a hacker academy. my parents thought "hacking" meant i was going to end up in jail. i told them this was what i wanted to do with my life. they weren't convinced, but they let me go.
+early days i was mostly just running tools i found on forums, stuff made by faceless accounts with anime pfps and insane reputations. half the time i didn't fully understand what i was running or who i was running it against. but i kept going. the first thing i actually built myself was an instagram bot. after that i couldn't stop.
 
-i started by running tools built by faceless accounts with god-tier pfp on hacker forums -tools i didn't fully understand, against targets i probably shouldn't have been touching. but i kept going. the first bot i actually built was an instagram bot, and many followed. after that, i couldn't stop building. looking back, i should have shared more of it.
+i spent a lot of nights on forums where people shared things you genuinely could not find on google. not because it was hidden, but because nobody outside those circles cared enough to look.
 
-i spent nights inside forums where people shared things you couldn't find on google. not because it was secret, but because no one outside those circles cared enough to look.
+my username on a certain forum was borrowed from a game character. it started getting some traction after i shared something the community thought was useful. the platform gave me a rank, which meant access to basically everything on there. i'd lurk like a ghost, never reacted to anything, never talked to anyone, just quietly took what i needed and left. looking back, i should have shared more of what i was building.
 
-my username on cracked.to was borrowed from a video game character. it started gaining traction after i shared something the users considered high value. the platform gave me a rank -suddenly i had access to every resource on there. i'd lurk like a ghost, never reacting, never interacting, just quietly taking what i needed. that was a crazy feeling.
+oh and according to my friend, the most useful program i ever wrote was a brute-force script to pull his crush's details from the college admin portal. priorities.
 
-according to my friend, the most useful program i ever wrote was a brute-force script to pull details of his crush from the administrative portal.
+honestly though, every system i broke into taught me way more about building things than any course ever did.
 
-every system i broke taught me how to build a better one.
+## hackathons
 
-## the moment it clicked
+i was 18, joined college, and found out about hackathons pretty randomly. walked into my first one with zero expectations. forty-eight hours later, we won.
 
-i was 18, joined college. discovered hackathons randomly on the internet -i'd always been good at finding stuff online, maybe that's what clicked. walked into my first one with zero expectations. forty-eight hours later, we won.
+the part i remember most isn't the prize or anything. it's that moment during the build when everything is clicking, the code works, the pitch makes sense, and suddenly this thing you've been doing alone in your room for years actually matters to other people too. this was before ai could write code for you, so every line was ours. felt good.
 
-i remember the exact feeling -not the prize, not the announcement -but the moment during the build when everything was falling into place. the code was working, the pitch was sharp, and for the first time, the thing i'd been doing alone in my room for years suddenly mattered to other people. this was before ai could do it all for you -every line was handwritten, and all those late nights were finally paying off.
+after that we just kept going. our team would sign up for everything and we kept winning.
 
-after that, we couldn't stop. our team started to attend more, and we kept winning.
+each hackathon compressed months of learning into one weekend. ship fast, pitch under pressure, build with strangers and somehow trust the process.
 
-each one compressed months of learning into a single weekend. how to ship fast. how to pitch under pressure. how to build with strangers and trust the process.
+then covid happened and i suddenly had nothing but time.
 
-then covid locked the world down, and i had nothing but time.
+that's when i got back into crypto, i'd messed around with it in school but this time i went deep. airdrops, grants, meme coins, yield farming, random protocols appearing and disappearing overnight.
 
-somewhere in there, i rediscovered crypto -last time was high school, but this time i went all in. airdrops, grants, meme coins, yield farming, internet black box money -protocols appearing overnight and disappearing just as fast.
-
-i found a loophole in brave browser's token distribution and built a tool to automate it. it wasn't a critical issue -just something you could automate at scale. gray hat? probably. i never shared it online. but me and my friends made a couple thousand dollars and learned more about bending the rules -which was what always gave me a kick.
+found a loophole in how brave browser distributed its tokens and built a tool to farm it at scale. it wasn't anything serious, just something you could automate if you knew how. gray area? yeah probably. never shared it publicly. but me and my friends made a couple thousand dollars off it and had a great time doing it.
 
 ## the bet
 
-when campus placements came around, i got a couple of offers but was never actively invested in the job search.
+campus placements came around. got a couple offers. never really cared about the job search if i'm honest.
 
-the boys from high school -adithya and rajat. we'd catch up every time i was home. one of those conversations refused to end. that became [cofount](https://cofount.com).
-
-if there's one thing all of this taught me -the internet doesn't care about your age, your background, or your bank account. it only cares if you show up.
-
-i'm still showing up.
+the boys from high school, adithya and rajat. we'd always meet up whenever i was back home. one of those conversations just kept going and refused to stop. that became [cofount](https://cofount.com).
