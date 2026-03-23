@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}{{ section.title }} - Sidharth's Blog{% endblock title %}
+{% block title %}Snippets - Sidharth Punathil{% endblock title %}
 
 {% block content %}
 <!-- Navigation -->
@@ -8,10 +8,10 @@
   <a href="{{ get_url(path='') }}" class="text-xs font-medium uppercase tracking-widest text-neutral-400 hover:text-neutral-900">S,</a>
 </nav>
 
-<!-- Blog Content -->
+<!-- Snippets Content -->
 <div class="mt-16">
   <h1 class="text-xs font-medium uppercase tracking-widest text-neutral-400">
-    thoughts
+    flashes
   </h1>
 
   {% if section.pages %}
@@ -30,7 +30,7 @@
     </div>
   {% else %}
     <p class="text-neutral-500 text-base mt-10 font-light">
-      no thoughts yet, but they're coming soon...
+      no flashes yet, but they're coming soon...
     </p>
   {% endif %}
 </div>
