@@ -47,7 +47,7 @@ early days i was mostly just running tools i found on forums, stuff made by face
 
 i spent a lot of nights on forums where people shared things you genuinely could not find on google. not because it was hidden, but because nobody outside those circles cared enough to look.
 
-my username on a certain forum was borrowed from a game character. it started getting some traction after i shared something the community thought was useful. the platform gave me a rank, which meant access to basically everything on there. i'd lurk like a ghost, never reacted to anything, never talked to anyone, just quietly took what i needed and left. looking back, i should have shared more of what i was building.
+my username on a x (better not mention it) forum was borrowed from a game character. it started getting some traction after i shared something the community thought was useful. the platform gave me a rank, which meant access to basically everything on there. i'd lurk like a ghost, never reacted to anything, never talked to anyone, just quietly took what i needed and left. looking back, i should have shared more of what i was building.
 
 oh and according to my friend, the most useful program i ever wrote was a brute-force script to pull his crush's details from the college admin portal. priorities.
 
