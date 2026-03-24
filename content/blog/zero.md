@@ -67,7 +67,7 @@ then covid happened and i suddenly had nothing but time.
 
 that's when i got back into crypto, i'd messed around with it in school but this time i went deep. airdrops, grants, meme coins, yield farming, random protocols appearing and disappearing overnight.
 
-found a loophole in how brave browser distributed its tokens and built a tool to farm it at scale. it wasn't anything serious, just something you could automate if you knew how. gray area? yeah probably. never shared it publicly. but me and my friends made a couple thousand dollars off it and had a great time doing it.
+i remember finding a loophole in how brave browser distributed its tokens and built a tool to automate it. it wasn't anything serious, just something you could automate if you knew how. gray area? yeah probably. never shared it publicly. but me and my friends made a couple thousand dollars off it and had a great time doing it. college life was fun indeed.
 
 ## the bet
 
