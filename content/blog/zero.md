@@ -47,7 +47,7 @@ early days i was mostly just running tools i found on forums, stuff made by face
 
 i spent a lot of nights on forums where people shared things you genuinely could not find on google. not because it was hidden, but because nobody outside those circles cared enough to look.
 
-my username on a x (better not mention it) forum was borrowed from a character named marcus holloway, inspired from watchdogs. it started getting some traction after i shared something the community thought was valuable. the platform gave me a special rank, which meant access to basically everything on there. i'd lurk like a ghost, never reacted to anything, never talked to anyone, just quietly took what i needed and left. looking back, i should have shared more of what i was building.
+my username on a x (better not mention it) forum was borrowed from a character named marcus holloway, inspired from watchdogs. it started getting some traction after i shared something the community thought was valuable. the platform gave me a special rank, which meant access to basically everything on there. i'd lurk like a ghost, never reacted to anything, never talked to anyone, just quietly took what i needed and left. looking back, it was me exploring the intenet. never went there anymore. 
 
 oh and according to my friend, the most useful program i ever wrote was a brute-force script to pull his crush's details from the college admin portal. priorities.
 
@@ -67,7 +67,7 @@ then covid happened and i suddenly had nothing but time.
 
 that's when i got back into crypto, i'd messed around with it in school but this time i went deep. writing contracts, airdrops, grants, meme coins, yield farming, random protocols appearing and disappearing overnight. 
 
-i remember finding a loophole in how brave browser distributed its tokens and built a tool to automate it. it wasn't anything serious, just something you could automate if you knew how. gray area? yeah probably. never shared it publicly. but me and my friends made a couple thousand dollars off it and had a great time doing it. college life was fun indeed.
+i remember finding a loophole in how brave browser distributed its tokens and built a tool to automate it. it wasn't anything serious, just something you could automate if you knew how. gray area? yeah probably. never shared it publicly. but me and my friends made a couple thousand dollars off, back then, it felt cool reverse engineering and breaking systems to gain advantage. college life was fun indeed. mini mr robot.
 
 ## the bet
 
